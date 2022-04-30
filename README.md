@@ -5,6 +5,7 @@
 </p>
 
 [![Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=erdemkly&count_private=true&show_icons=true)](https://github.com/erdemkly/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **erdemkly/erdemkly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
