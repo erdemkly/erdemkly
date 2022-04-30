@@ -10,14 +10,20 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=erdemkly&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,<br>
     I'm Erdem
 </h1>
+  ---
+### 👨‍💻 About Me :
+  I am a Unity Game Developer 🎮 from Turkey.
+ - 👨‍🎓 I am a senior student at Mehmet Akif Ersoy University.
+ - 📱 I'm working on Mobile Game Development.
+ - 🔥 In my free time, I play games and I develop my coding skills.
 </div>
+---
 
-[![Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=erdemkly&count_private=true&show_icons=true)](https://github.com/erdemkly/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemkly)](https://github.com/erdemkly)
+
 
 <!--
 **erdemkly/erdemkly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
