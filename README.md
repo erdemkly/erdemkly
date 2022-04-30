@@ -24,6 +24,11 @@
  - 📱 I'm working on Mobile Game Development.
  - 🔥 In my free time, I play games and I develop my coding skills.
   ---
+  
+### 🛠️ Languages and Tools :
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+          
 
 
 
