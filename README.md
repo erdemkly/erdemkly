@@ -1,8 +1,6 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/erdem-kalay-5a1042180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/erdemkalayy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 [![Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=erdemkly&count_private=true&show_icons=true)](https://github.com/erdemkly/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemkly)](https://github.com/erdemkly)
