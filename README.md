@@ -1,5 +1,10 @@
-### Hi there 👋
-[![MasterHead](![resim](https://user-images.githubusercontent.com/50420788/166104687-cdf84d7b-9654-4361-af15-35bd346ad02d.png))](https://github.com/erdemkly/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <!--
 **erdemkly/erdemkly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
