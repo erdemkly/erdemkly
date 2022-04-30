@@ -14,6 +14,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,<br>
     I'm Erdem
 </h1>
+  
+</div>
   ---
   
 ### 👨‍💻 About Me :
@@ -21,7 +23,6 @@
  - 👨‍🎓 I am a senior student at Mehmet Akif Ersoy University.
  - 📱 I'm working on Mobile Game Development.
  - 🔥 In my free time, I play games and I develop my coding skills.
-</div>
   ---
 
 
