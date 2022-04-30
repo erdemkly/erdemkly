@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/erdemkalayy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=erdemkly)](https://github.com/erdemkly/github-readme-stats)
+[![Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=erdemkly&count_private=true)](https://github.com/erdemkly/)
 
 <!--
 **erdemkly/erdemkly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
