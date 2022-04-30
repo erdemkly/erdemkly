@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=erdemkly&style=flat-square&color=blue" alt=""/>
 </div>
 
 [![Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=erdemkly&count_private=true&show_icons=true)](https://github.com/erdemkly/)
