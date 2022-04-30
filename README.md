@@ -9,6 +9,11 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=erdemkly&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+    I'm Erdem Kalay
+</h1>
 </div>
 
 [![Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=erdemkly&count_private=true&show_icons=true)](https://github.com/erdemkly/)
